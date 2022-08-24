@@ -1,2 +1,2 @@
 # Drought
-TRabajo para centro Hemera Universidad Mayor
+Para centro Hemera Universidad Mayor
